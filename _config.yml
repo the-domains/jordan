@@ -1,28 +1,40 @@
-name: jordan
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.21112
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: jordan
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.1379928
+  brandStrength: 0.8125
+  lightness: 0.375
   brandColors:
     - '#8e97a7'
     - '#050507'
     - '#e4e9e5'
     - '#675e5f'
     - '#bbc2d1'
-  brandStrength: 0.8125
-  lightness: 0.375
-  saturation: 0.75
-  rhythmicContrast: 0.25
-purpose: []
+  rhythmicContrast: 0.7311828
+typography_spectrum: 0.21112
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 1
+analytics:
+  twitter: null
+  google: null
+  facebook: null
