@@ -4,8 +4,15 @@
         <description><![CDATA[jordan]]></description>
         <link>https://thegrid.ai/jordan/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 10 Nov 2015 21:48:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Nov 2015 21:59:21 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jordan/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3fd95dbe-828c-41e4-9d83-4b0faa072124.jpg">]]></description>
+            <link>https://thegrid.ai/jordan/0cf5e9c3-8cb4-4a10-858b-76c8c50add50/index.html</link>
+            <guid isPermaLink="false">0cf5e9c3-8cb4-4a10-858b-76c8c50add50</guid>
+            <pubDate>Tue, 10 Nov 2015 21:58:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Madrid]]></title>
             <description><![CDATA[<article><h1>Madrid</h1><p>Perfectly pleasant, yet rage inducing Madrid. Yen and I had a pretty busy three days here trying to make the most of what the city has to offer. One of the first things we realised is how cheap everything is here.</p><img src="https://static1.squarespace.com/static/53a555fde4b04b8d93b0249c/t/559039aee4b0d05dbdd3685a/1435515353308/?format=1000w"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<img src="http://static1.squarespace.com/static/53a555fde4b04b8d93b0249c/53a55c3de4b0b7aebb4fe573/5491a897e4b080f78ce323d0/1418832026728/IMG_8164.JPG?format=2500w">]]></description>
             <link>https://thegrid.ai/jordan/e8e60145-20b5-43b4-a202-abcce07de233/index.html</link>
             <guid isPermaLink="false">e8e60145-20b5-43b4-a202-abcce07de233</guid>
-            <pubDate>Tue, 10 Nov 2015 21:34:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="http://static1.squarespace.com/static/53a555fde4b04b8d93b0249c/53a55c3de4b0b7aebb4fe573/5491a897e4b080f78ce323d0/1418832026728/IMG_8164.JPG?format=100w">]]></description>
-            <link>https://thegrid.ai/jordan/b7d79090-0df9-44ab-8f97-f466c320ac72/index.html</link>
-            <guid isPermaLink="false">b7d79090-0df9-44ab-8f97-f466c320ac72</guid>
             <pubDate>Tue, 10 Nov 2015 21:34:35 GMT</pubDate>
         </item>
     </channel>
