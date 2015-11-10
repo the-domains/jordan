@@ -1,7 +1,7 @@
 name: jordan
 favicon: null
-layout_spectrum: 0.5
-typography_spectrum: 0.799072855617851
+layout_spectrum: 0.22255
+typography_spectrum: 0.73745
 cta:
   domain: null
   bucket: null
@@ -22,7 +22,7 @@ color:
     - '#607e80'
     - '#2c3545'
   brandStrength: 0.1875
-  lightness: 0.19413344888016582
-  saturation: 0.5403289368841797
-  rhythmicContrast: 0.8461669750977308
+  lightness: 0.1875
+  saturation: 0.1875
+  rhythmicContrast: 0.75
 purpose: []
