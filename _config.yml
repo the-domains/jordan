@@ -1,7 +1,7 @@
 name: jordan
 favicon: null
 layout_spectrum: 0.94169
-typography_spectrum: 0.5
+typography_spectrum: 0
 collections:
   - index:
       path: /
