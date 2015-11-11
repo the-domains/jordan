@@ -1,8 +1,7 @@
-layout_spectrum: 0.9498208
-opengraph:
-  image: null
-  type: null
-  appId: null
+name: jordan
+favicon: null
+layout_spectrum: 0
+typography_spectrum: 0.21112
 collections:
   - index:
       path: /
@@ -15,26 +14,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-purpose: []
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.5071685
-  brandStrength: 0.8125
-  lightness: 0.469534
   brandColors:
     - '#8e97a7'
     - '#050507'
     - '#e4e9e5'
     - '#675e5f'
     - '#bbc2d1'
+  brandStrength: 0.6875
+  lightness: 0.469534
+  saturation: 0.5071685
   rhythmicContrast: 1
-typography_spectrum: 0.21112
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: jordan
+purpose: []
