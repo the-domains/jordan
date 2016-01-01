@@ -1,7 +1,7 @@
 name: jordan
 favicon: null
-layout_spectrum: 0.94169
-typography_spectrum: 0
+layout_spectrum: 0.11174
+typography_spectrum: 0.2155
 collections:
   - index:
       path: /
@@ -34,7 +34,7 @@ color:
     - '#675e5f'
     - '#bbc2d1'
   brandStrength: 0
-  lightness: 0.469534
-  saturation: 0.5071685
-  rhythmicContrast: 1
+  lightness: 0.8125
+  saturation: 0.8125
+  rhythmicContrast: 0.25
 purpose: []
